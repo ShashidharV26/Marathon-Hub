@@ -70,17 +70,16 @@ The platform streamlines marathon discovery, event registration, user profiling,
 ---
 
 ## 📷 UI Screenshots
-### Splash Screen
-<img src="appScreenShorts/splashScreen.jpg" width="300"/>
 
-### Wellcome Screen
-<img src="appScreenShorts/wellcome_page.jpg" width="300"/>
+<!-- Row 1: 3 images -->
+<p align="center">
+  <img src="appScreenShorts/splashScreen.jpg" width="220" height="400" alt="Splash Screen"/>
+  <img src="appScreenShorts/wellcome_page.jpg" width="220" height="400" alt="Welcome Screen"/>
+  <img src="appScreenShorts/signUp_page.jpg" width="220" height="400" alt="Signup Screen"/>
+</p>
 
-### Signup Screen
-<img src="appScreenShorts/signUp_page.jpg" width="300"/>
-
-### Home Page
-<img src="appScreenShorts/main_events_page.jpg" width="300"/>
-
-### Navigation Page
-<img src="appScreenShorts/menu_navigation_page.jpg" width="300"/>
+<!-- Row 2: 2 images -->
+<p align="center">
+  <img src="appScreenShorts/main_events_page.jpg" width="220" height="400" alt="Home Page"/>
+  <img src="appScreenShorts/menu_navigation_page.jpg" width="220" height="400" alt="Navigation Page"/>
+</p>
